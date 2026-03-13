@@ -27,7 +27,7 @@ This repository is continuously evolving. I will keep updating it as I cover mor
 - Optionals
 - Higher-Order Functions
 - Singleton Pattern
-
+- Inline Array
 ---
 
 ### 🔹 Architecture & Design Principles
