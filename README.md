@@ -30,6 +30,12 @@ This repository is continuously evolving. I will keep updating it as I cover mor
 - Inline Array
 ---
 
+### 🔹 Debugging Tool
+
+- Xcode Instruments
+
+---
+
 ### 🔹 Architecture & Design Principles
 
 - SOLID Principles
