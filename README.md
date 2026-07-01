@@ -28,6 +28,7 @@ This repository is continuously evolving. I will keep updating it as I cover mor
 - Higher-Order Functions
 - Singleton Pattern
 - Inline Array
+- Task vs Task.detached
 ---
 
 ### 🔹 Debugging Tool
