@@ -29,6 +29,7 @@ This repository is continuously evolving. I will keep updating it as I cover mor
 - Singleton Pattern
 - Inline Array
 - Task vs Task.detached
+- Weak vs Unowned
 ---
 
 ### 🔹 Debugging Tool
@@ -62,7 +63,6 @@ I will be covering the following topics in upcoming posts:
 ### 🔹 Advanced Swift
 
 - ARC & Memory Management
-- Weak vs Unowned
 - Closures Deep Dive
 - Async/Await Deep Dive
 
