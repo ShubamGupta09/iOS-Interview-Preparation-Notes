@@ -53,6 +53,7 @@ This repository is continuously evolving. I will keep updating it as I cover mor
 - Actor (Concurrency)
 - ContentUnavailableView
 - WeatherKit (Apple Native Weather API – async/await integration, location-based weather fetching, API limits & best practices)
+- On-Demand Resource (ODR)
 
 ---
 
